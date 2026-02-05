@@ -1,0 +1,10 @@
+[
+  {
+    "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+    "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+    "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+    "hook_event_name": "SessionStart",
+    "source": "startup",
+    "model": "claude-opus-4-5-20251101"
+  }
+]

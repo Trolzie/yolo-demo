@@ -1,0 +1,707 @@
+[
+  {
+    "timestamp": "2026-02-05T08:25:32.474760",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0009489999999999999,
+        "total_duration_ms": 5128,
+        "total_api_duration_ms": 2277,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 159,
+        "total_output_tokens": 158,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:25:48.520885",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0013409999999999997,
+        "total_duration_ms": 21401,
+        "total_api_duration_ms": 3257,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 456,
+        "total_output_tokens": 177,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 4,
+          "cache_creation_input_tokens": 21198,
+          "cache_read_input_tokens": 0
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:25:49.147780",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0013409999999999997,
+        "total_duration_ms": 22030,
+        "total_api_duration_ms": 3257,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 456,
+        "total_output_tokens": 177,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 4,
+          "cache_creation_input_tokens": 21198,
+          "cache_read_input_tokens": 0
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:25:50.328646",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.0013409999999999997,
+        "total_duration_ms": 23214,
+        "total_api_duration_ms": 3257,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 456,
+        "total_output_tokens": 177,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 4,
+          "cache_creation_input_tokens": 21198,
+          "cache_read_input_tokens": 0
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:25:50.889089",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.14010350000000002,
+        "total_duration_ms": 23776,
+        "total_api_duration_ms": 8389,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 466,
+        "total_output_tokens": 426,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 10,
+          "output_tokens": 249,
+          "cache_creation_input_tokens": 21198,
+          "cache_read_input_tokens": 0
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:25:56.059233",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1412065,
+        "total_duration_ms": 28937,
+        "total_api_duration_ms": 9732,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1249,
+        "total_output_tokens": 490,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 425,
+          "cache_read_input_tokens": 21198
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:25:56.554908",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.1412065,
+        "total_duration_ms": 29437,
+        "total_api_duration_ms": 9732,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1249,
+        "total_output_tokens": 490,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 425,
+          "cache_read_input_tokens": 21198
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:25:57.574317",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.15817675,
+        "total_duration_ms": 30456,
+        "total_api_duration_ms": 14669,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 1257,
+        "total_output_tokens": 637,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 147,
+          "cache_creation_input_tokens": 425,
+          "cache_read_input_tokens": 21198
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:26:06.273102",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.15907475000000001,
+        "total_duration_ms": 39159,
+        "total_api_duration_ms": 15425,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2125,
+        "total_output_tokens": 643,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:26:06.577606",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.15907475000000001,
+        "total_duration_ms": 39459,
+        "total_api_duration_ms": 15425,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2125,
+        "total_output_tokens": 643,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 147,
+          "cache_creation_input_tokens": 425,
+          "cache_read_input_tokens": 21198
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:26:09.566965",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.15907475000000001,
+        "total_duration_ms": 42450,
+        "total_api_duration_ms": 15425,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2125,
+        "total_output_tokens": 643,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 2,
+          "cache_creation_input_tokens": 195,
+          "cache_read_input_tokens": 21623
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:26:10.086536",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.17389500000000002,
+        "total_duration_ms": 42970,
+        "total_api_duration_ms": 18719,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2133,
+        "total_output_tokens": 753,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 110,
+          "cache_creation_input_tokens": 195,
+          "cache_read_input_tokens": 21623
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:26:13.830596",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.17438000000000003,
+        "total_duration_ms": 46717,
+        "total_api_duration_ms": 19342,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2458,
+        "total_output_tokens": 785,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 140,
+          "cache_read_input_tokens": 21818
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:26:14.248356",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.17438000000000003,
+        "total_duration_ms": 47134,
+        "total_api_duration_ms": 19342,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2458,
+        "total_output_tokens": 785,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 1,
+          "cache_creation_input_tokens": 140,
+          "cache_read_input_tokens": 21818
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:26:14.883869",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.19122900000000004,
+        "total_duration_ms": 47765,
+        "total_api_duration_ms": 24039,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 2466,
+        "total_output_tokens": 986,
+        "context_window_size": 200000,
+        "current_usage": {
+          "input_tokens": 8,
+          "output_tokens": 201,
+          "cache_creation_input_tokens": 140,
+          "cache_read_input_tokens": 21818
+        },
+        "used_percentage": 11,
+        "remaining_percentage": 89
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  },
+  {
+    "timestamp": "2026-02-05T08:27:00.210117",
+    "input_data": {
+      "session_id": "ed4b623b-3143-4df7-9078-8656e979153f",
+      "transcript_path": "/Users/troelschristensen/.claude/projects/-Users-troelschristensen-Projects-yolo-demo/ed4b623b-3143-4df7-9078-8656e979153f.jsonl",
+      "cwd": "/Users/troelschristensen/Projects/yolo-demo",
+      "model": {
+        "id": "claude-opus-4-5-20251101",
+        "display_name": "Opus 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/troelschristensen/Projects/yolo-demo",
+        "project_dir": "/Users/troelschristensen/Projects/yolo-demo"
+      },
+      "version": "2.1.31",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.19478600000000001,
+        "total_duration_ms": 93093,
+        "total_api_duration_ms": 27142,
+        "total_lines_added": 0,
+        "total_lines_removed": 0
+      },
+      "context_window": {
+        "total_input_tokens": 5908,
+        "total_output_tokens": 1009,
+        "context_window_size": 200000,
+        "current_usage": null,
+        "used_percentage": null,
+        "remaining_percentage": null
+      },
+      "exceeds_200k_tokens": false,
+      "vim": {
+        "mode": "INSERT"
+      }
+    },
+    "status_line_output": "\u001b[36m[Opus 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 yolo-demo\u001b[0m | \u001b[32m\ud83c\udf3f main \u00b1126\u001b[0m | \u001b[90mv2.1.31\u001b[0m"
+  }
+]
